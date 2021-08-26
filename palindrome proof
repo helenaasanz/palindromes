@@ -1,0 +1,20 @@
+
+palindromes. 
+checking if 'RACECAR' is a palindrome 
+1. Reverse the word.
+2. Compare the starting word with reversed word.
+3. If both words are the same, then the original word is a palindrome.
+4. Following this algorithm, RACECAR is a palindrome
+
+checking if 'DEFIED' is not a palindrome
+1. Compare the first and last letters of the string.
+2. If the first and last letters differ, then the string is not a palindrome.
+3. Otherwise, the first and last letters are the same and this word could be a palindrome.
+4. Reverse the original word and if they match, the original word is a palindrome. 
+5. Following this algorithm, DEFIED is not a palindrome 
+
+checking if any word is a palindrome
+1. If the string is made of no letters or just one letter, then it is a palindrome.
+2. Otherwise, compare the first and last letters of the string.
+3. If the first and last letters differ, then the string is not a palindrome.
+4. Otherwise, the first and last letters are the same and this word could be a palindrome.
